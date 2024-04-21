@@ -1,5 +1,5 @@
 [package]
-name = "minigrep"
+name = "nitesh_minigrep"
 version = "0.1.0"
 edition = "2021"
 description = "A query and a file_path and to search that query in that file_path."
