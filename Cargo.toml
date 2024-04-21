@@ -1,0 +1,11 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+edition = "2021"
+description = "A query and a file_path and to search that query in that file_path."
+license = "MIT OR Apache-2.0"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
